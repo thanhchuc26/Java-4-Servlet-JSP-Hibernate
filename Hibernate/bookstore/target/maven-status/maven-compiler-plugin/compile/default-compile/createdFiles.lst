@@ -1,0 +1,3 @@
+com\softech\bookstore\Book.class
+com\softech\bookstore\BookDAO.class
+com\softech\bookstore\ControllerServlet.class

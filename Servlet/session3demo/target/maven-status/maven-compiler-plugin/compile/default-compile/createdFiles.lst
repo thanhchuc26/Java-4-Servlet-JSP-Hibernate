@@ -1,0 +1,7 @@
+com\softech\session3demo\InitParamServlet.class
+com\softech\session3demo\DashboardServlet.class
+com\softech\session3demo\WriteCookieServlet.class
+com\softech\session3demo\ReadCookieServlet.class
+com\softech\session3demo\RegisterServlet.class
+com\softech\session3demo\SignInServlet.class
+com\softech\session3demo\LoginServlet.class

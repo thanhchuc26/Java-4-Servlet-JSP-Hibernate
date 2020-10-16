@@ -1,0 +1,6 @@
+com\softech\dao\UserDao.class
+com\softech\controllers\ListUserController.class
+com\softech\controllers\NewUserController.class
+com\softech\controllers\EditUserControlller.class
+com\softech\helpers\DatabaseHelper.class
+com\softech\model\User.class

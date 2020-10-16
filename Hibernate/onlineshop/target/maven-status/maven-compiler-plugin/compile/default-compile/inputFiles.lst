@@ -1,0 +1,5 @@
+C:\Users\FPT\Documents\NetBeansProjects\onlineshop\src\main\java\com\softech\onlineshop\controllers\exceptions\IllegalOrphanException.java
+C:\Users\FPT\Documents\NetBeansProjects\onlineshop\src\main\java\com\softech\onlineshop\controllers\exceptions\PreexistingEntityException.java
+C:\Users\FPT\Documents\NetBeansProjects\onlineshop\src\main\java\com\softech\onlineshop\controllers\exceptions\NonexistentEntityException.java
+C:\Users\FPT\Documents\NetBeansProjects\onlineshop\src\main\java\com\softech\onlineshop\controllers\ShopEntityJpaController.java
+C:\Users\FPT\Documents\NetBeansProjects\onlineshop\src\main\java\com\softech\onlineshop\entities\ShopEntity.java

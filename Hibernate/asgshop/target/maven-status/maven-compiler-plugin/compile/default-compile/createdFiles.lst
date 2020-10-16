@@ -1,0 +1,6 @@
+com\softech\asgshop\controllers\exceptions\IllegalOrphanException.class
+com\softech\asgshop\controllers\exceptions\PreexistingEntityException.class
+com\softech\asgshop\controllers\ProductEntityJpaController.class
+com\softech\asgshop\entities\ProductEntity.class
+com\softech\asgshop\entities\ProductEntity_.class
+com\softech\asgshop\controllers\exceptions\NonexistentEntityException.class
